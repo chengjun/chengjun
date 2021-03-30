@@ -5,20 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m a big fan of Socrates.
+- 🌱 I’m currently learning to write.
+- 👯 I’m looking to collaborate on the narrative economy study of bitcoin.
+- 🤔 I’m looking for help with .
+- 💬 Ask me about Python programming.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-Cheng-Jun Wang is currently an associate professor in the School of Journalism and Communication, Nanjing University. He is also the director of Computational Communication Collaboratory. His research on computational communication appears in both SSCI and SCI indexed journals, such as Internet Research, Cyberpsychology, Telematics and Informatics, Scientific Reports, PloS ONE, and Physica A.
-
-#### Contact Information
-- Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
-- 307 Zijin Building, Nanjing University (Xianlin Campus), 163 Xianlin Road, Qixia District, Nanjing, Jiangsu, China (210023).
-- Email: wangchj04 at 126.com
-- ORCID: 0000-0002-9507-2888
+- 🔭 I’m a big fan of Socrates.
+- 🌱 I’m currently learning to write.
+- 👯 I’m looking to collaborate on the narrative economy study of bitcoin.
