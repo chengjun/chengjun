@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Cheng-Jun Wang is currently an associate professor in the School of Journalism and Communication, Nanjing University. He is also the director of Computational Communication Collaboratory. His research on computational communication appears in both SSCI and SCI indexed journals, such as Internet Research, Cyberpsychology, Telematics and Informatics, Scientific Reports, PloS ONE, and Physica A.
+
+#### Contact Information
+- Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
+- 307 Zijin Building, Nanjing University (Xianlin Campus), 163 Xianlin Road, Qixia District, Nanjing, Jiangsu, China (210023).
+- Email: wangchj04 at 126.com
+- ORCID: 0000-0002-9507-2888
