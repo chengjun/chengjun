@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a big fan of Socrates.
-- 🌱 I’m currently learning to write.
-- 👯 I’m looking to collaborate on the narrative economy study of bitcoin.
+- 🔭 I am a disciple of Socrates.
+- 🌱 Kindle the fire in your heart!
+- 👯 Know thyself!
