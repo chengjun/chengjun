@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 🔭 I am a disciple of Socrates.
 
 
-![](tt.gif)
+![](Socrates_say.gif)
 
 🌱 Kindle the fire in your heart! Know thyself!
