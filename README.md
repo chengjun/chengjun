@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am a disciple of Socrates.
+Human beings are the disciples of Socrates.
 
 
 ![](tt.gif)
