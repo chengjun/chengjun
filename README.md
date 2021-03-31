@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 Kindle the fire in your heart!
 - 👯 Know thyself!
 
-![](death.png)
+![](socrates.png)
