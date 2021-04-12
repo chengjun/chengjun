@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Human beings are the disciples of Socrates.
 
 
 ![](tt.gif)
 
-🌱 Kindle the fire in your heart! Know thyself!
+🌱 Know thyself. Kindle the fire in your heart! 
