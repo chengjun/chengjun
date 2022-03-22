@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](tt.gif)
 
-🌱 Know thyself and Kindle the fire in your heart! 
+🌱 Know thyself and kindle the fire in your heart! 
